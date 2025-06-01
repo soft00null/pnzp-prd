@@ -1,0 +1,12 @@
+{
+  "vectorStoreId": "vs_683c4081e428819197d60fe8948bc3f8",
+  "sourceFile": "knowledgebase.txt",
+  "uploadedFileId": "file-Jaur25ifAeMVEQEc8nBPBY",
+  "createdAt": "2025-06-01T11:59:32.119Z",
+  "status": "active",
+  "testQueries": [
+    "What services does ZP Pune provide?",
+    "How to apply for birth certificate?",
+    "Contact information for ZP Pune"
+  ]
+}
